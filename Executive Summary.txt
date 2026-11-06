@@ -1,0 +1,15 @@
+﻿EXECUTIVE SUMMARY
+The Sales Performance and Customer Insights project analyzed customer, product, and transaction datasets to evaluate the overall performance of an e-commerce retail business. The major findings are summarized below:
+* A total of 34,689 transaction records were consolidated into a sales fact table after data cleaning and integration.
+* The business generated a total calculated revenue of ₱9,237,598.93 across 14,701 unique orders.
+* The average order value (AOV) was ₱628.37.
+* Electronics generated the highest category revenue at ₱1,282,129.54.
+* Toys ranked second, generating ₱1,255,350.95.
+* KidJoy Toys 607 was the highest-revenue individual product, generating ₱40,445.79.
+* Olongapo recorded the highest city-level revenue at ₱591,334.47.
+* Repeat customers generated ₱8,742,510.71, representing 94.64% of total calculated revenue.
+* New customers contributed ₱495,088.23, representing 5.36% of total calculated revenue.
+* October 2024 recorded the highest monthly revenue at ₱405,778.61.
+* February 2025 recorded the lowest monthly revenue at ₱336,527.87.
+The results highlight the importance of customer retention, product performance, and geographical sales analysis in understanding business performance. Overall, the findings provide valuable information that can support improved marketing strategies, customer engagement, inventory planning, and business decision-making.
+Note: The calculated revenue includes all retained transaction records, regardless of order status.
